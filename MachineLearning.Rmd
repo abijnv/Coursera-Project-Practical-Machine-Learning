@@ -1,8 +1,8 @@
 ---
-title: "Human Activity Recognition - AProject in Machine Learning"
-output: HTML_document
-author: Durgaprasad K N
-date: July 16, 2016
+**Title**: "Human Activity Recognition - AProject in Machine Learning"
+**Output**: HTML_document
+**Author**: Durgaprasad K N
+**Date**: July 16, 2016
 ---
 
 
