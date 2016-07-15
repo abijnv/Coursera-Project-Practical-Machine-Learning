@@ -1,5 +1,5 @@
 ---
-**Title**: "Human Activity Recognition - AProject in Machine Learning"
+Title: "Human Activity Recognition - A Project in Machine Learning"
 **Output**: HTML_document
 **Author**: Durgaprasad K N
 **Date**: July 16, 2016
