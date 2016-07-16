@@ -1,8 +1,8 @@
 ---
-title: "Human Activity Recognition-A Project in Machine Learning"
-author: "Durgaprasad"
-date: "Saturday, July 16, 2016"
-output: html_document
+Title: "Human Activity Recognition-A Project in Machine Learning"
+Author: "Durgaprasad"
+Date: "Saturday, July 16, 2016"
+Output: html_document
 ---
 
 ##Executive Summary
